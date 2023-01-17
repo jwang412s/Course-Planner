@@ -1,0 +1,14 @@
+{"contents": [
+  {
+    "topics": ["midterm 1"],
+    "subtopics": ["abstraction"],
+    "header": "course 1 : cpsc 210",
+    "dates": ["feb 24"]
+  },
+  {
+    "topics": ["midterm 2"],
+    "subtopics": ["proofs"],
+    "header": "course 2 : phil 220",
+    "dates": ["mar 1"]
+  }
+]}
